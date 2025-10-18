@@ -1,0 +1,10 @@
+[project]
+name = "so101"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "huggingface-hub[cli]>=0.34.4",
+    "lerobot[all]>=0.3.3",
+]
