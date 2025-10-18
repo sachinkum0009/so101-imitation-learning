@@ -1,5 +1,11 @@
 # Imitation Learning with SO101
 
+## Demo
+
+https://github.com/user-attachments/assets/35ca7b1e-3ef0-47ac-b40a-9381fb2fbc7b
+
+
+
 ## Commands
 
 > Calibrate Follower and Leader
